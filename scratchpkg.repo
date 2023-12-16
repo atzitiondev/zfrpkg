@@ -5,6 +5,6 @@
 #    <repo directory> <repo url for sync>
 #
 ports:
-  /usr/ports/core        https://apt.zafiros.xyz/ports/core
-  /usr/ports/main        https://apt.zafiros.xyz/ports/main
-  /usr/ports/multilib    https://apt.zafiros.xyz/ports/multilib
+  /usr/ports/core        https://zfr.zafiros.xyz/ports/core
+  /usr/ports/main        https://zfr.zafiros.xyz/ports/main
+  /usr/ports/multilib    https://zfr.zafiros.xyz/ports/multilib
