@@ -1,10 +1,10 @@
-# scratchpkg
+# zfrpkg
 
-A package manager for [Venom Linux](https://venomlinux.org/).
+A package manager for [ZafirOS](https://zafiros.xyz).
 
 ## Description
 
-Scratchpkg is a package manager built in order to manage packages for Venom Linux. This package manager
+Zfrpkg is a package manager built in order to manage packages for ZafirOS. This package manager
 is fully written in bash. The package building script uses the port system like in Arch's makepkg and CRUX's pkgmk. Packages are built and installed into a temporary location using DESTDIR method and are afterwards compressed in a file 
 directory using tar.
 
